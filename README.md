@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Shadow, a Business Informatics student from Germany.</h2>
+<h2 align="center">Hi 👋! I'm Shadow, a developer from Germany.</h2>
 
 ###
 
@@ -27,7 +27,6 @@
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
 ###

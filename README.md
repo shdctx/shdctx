@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Shadow, a developer from Germany.</h2>
+<h2 align="center">Hi 👋! I'm Shadow, a Cyber Security Student from Germany.</h2>
 
 ###
 
